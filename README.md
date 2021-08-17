@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dtran421
-  I’m currently a sophomore studying CS and finance at William & Mary. I've taken classes on software development, data structures and algorithms,
+  I’m currently a junior studying CS and finance at William & Mary. I've taken classes on software development, data structures and algorithms,
   investments, accounting, financial management, and corporate valuation. Over the summer of 2020, I interned with a small startup called Whispearrings
   to help them develop an iOS app using Swift. The application integrated sound playback with a SQLite database to allow them to eventually interface with their product.
   
