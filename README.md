@@ -1,19 +1,21 @@
 - 👋 Hi, I’m @dtran421
-  I’m currently a junior studying CS and finance at William & Mary. I've taken classes on software development, data structures and algorithms,
-  investments, accounting, financial management, and corporate valuation. Over the summer of 2020, I interned with a small startup called Whispearrings
-  to help them develop an iOS app using Swift. The application integrated sound playback with a SQLite database to allow them to eventually interface with their product.
+  I’m currently a junior studying CS and finance at William & Mary. I've taken classes on software development, data structures, discrete structures, algorithms, computer
+  organization, investments, accounting, financial management, and corporate valuation and credit analysis. Over the summer of 2021, I interned at a research program called NSF
+  REU Site: HUMANS MOVE to develop evasive algorithms paired with the SHARKS (Secure, Heterogeneous, Autonomous, and Rotational Knowledge for Swarms) Protocol to defend a UAV
+  swarm against adversarial UAV attacks. I learned to work with Unity 3D and C# to simulate UAV swarms in VR and 3D space to gather data on the effectiveness of evasive maneuvers.
   
-- 👀 I'm involved in a number of clubs across campus, including the Association for Computing Machinery, Developer Student Club, and Investment Club. 
-  I'm also a member of the Alpha Kappa Psi fraternity, which focuses on professional development and student networking. 
+- 👀 I'm involved in a number of clubs across campus, including the Association for Computing Machinery, Developer Student Club, and Investment Club. I'm also a member of the
+  Alpha Kappa Psi fraternity, which focuses on professional development and student networking.
   
-  I am the incoming Chief Financial Officer of a student-run marketing agency at W&M called Agency 1693, which consults for companies in the Williamsburg area. 
-  We produce adverts and marketing campaigns on behalf of our clients, and as CFO, I will be in charge of managing project capital as well as handling company financials.
+  I am the Chief Financial Officer of a student-run marketing agency at W&M called Agency 1693, which consults for companies in the Williamsburg area. We produce adverts and
+  marketing campaigns on behalf of our clients, and as CFO, I am in charge of managing project capital as well as handling company financials, invoicing, expenses, and employee
+  wages.
 
-  As a part-time occupation, I am a private tutor for Acakid, educating young kids in middle school and high school on various subjects including math, science, and 
-  computer science. I help my students learn and obtain a strong understanding of the concepts covered in school while developing their critical thinking and reasoning skills.
+  As a part-time occupation, I work as a Technology Program Coordinator for the Alan B. Miller Entrepreneurship Center to create applications and maintain software to propel the
+  EC’s missions. I utilized technological tools to streamline backend development and enable seamless user experiences.
 
-- 🌱 I’m experienced in Python, Java, Javascript/Typescript, NodeJS, React, and MySQL. I'm currently taking classes on computer organization and utilizing C and Assembly
-  to optimize code and manage low-level code execution.
+- 🌱 I’m experienced in Python, Java, Javascript/Typescript, NodeJS, React, and MySQL. I'm currently taking classes on principles of program languages, finite automata, and  
+  machine learning.
 
 - 📫 If you’d like to connect with me to discuss more, please feel free to send me a message or reach out via email (duketran2001@gmail.com). 
 
