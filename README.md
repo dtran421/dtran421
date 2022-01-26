@@ -25,6 +25,6 @@ You can click the Preview link to take a look at your changes.
 
 Check out my latest project, Godspeed!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dtran421&repo=project-godspeed&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Godspeed Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dtran421&repo=project-godspeed&theme=midnight-purple)](https://github.com/dtran421/project-godspeed)
 
-[![Duke's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dtran421&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dtran421&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
