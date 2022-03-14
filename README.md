@@ -23,6 +23,8 @@ Here are some interesting classes I'm currently taking:
 - Student Managed Investment Fund
 - Multivariable Calculus
 
+This summer, I'm going to be working at **Ernst & Young (EY)** as a **Technology Consulting Intern** under the [Financial Services Organization (FSO)](https://www.ey.com/en_us/financial-services). I'm super excited to embark on this journey and can't wait to see all the new things I'll learn!
+
 
 ## Check out my latest project, Godspeed!
 
