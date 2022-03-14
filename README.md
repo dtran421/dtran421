@@ -3,28 +3,77 @@ dtran421/dtran421 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-- 👋 Hi, I’m @dtran421
-  I’m currently a junior studying CS and finance at William & Mary. I've taken classes on software development, data structures, discrete structures, algorithms, computer
-  organization, investments, accounting, financial management, and corporate valuation and credit analysis. Over the summer of 2021, I interned at a research program called NSF
-  REU Site: HUMANS MOVE to develop evasive algorithms paired with the SHARKS (Secure, Heterogeneous, Autonomous, and Rotational Knowledge for Swarms) Protocol to defend a UAV
-  swarm against adversarial UAV attacks. I learned to work with Unity 3D and C# to simulate UAV swarms in VR and 3D space to gather data on the effectiveness of evasive maneuvers.
-  
-- 👀 I'm involved in a number of clubs across campus, including the Association for Computing Machinery, Developer Student Club, and Investment Club. I'm also a member of the
-  Alpha Kappa Psi fraternity, which focuses on professional development and student networking.
-  
-  - I am the Chief Financial Officer of a student-run marketing agency at W&M called Agency 1693, which consults for companies in the Williamsburg area. We produce adverts and
-  marketing campaigns on behalf of our clients, and as CFO, I am in charge of managing project capital as well as handling company financials, invoicing, expenses, and employee
-  wages.
+# Hi, I'm Duke 🙋🏻‍♂️
 
-  - As a part-time occupation, I work as a Technology Program Coordinator for the Alan B. Miller Entrepreneurship Center to create applications and maintain software to propel the
-  EC’s missions. I utilized technological tools to streamline backend development and enable seamless user experiences.
 
-- 🌱 I’m experienced in Python, Java, Javascript/Typescript, NodeJS, React, and MySQL. I'm currently taking classes on Entrepreneurship in CS, Data Mining, and Multivariable Calculus.
+##### 📱 Socials
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duketran/)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dtran421)
+[![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](http://facebook.com/dtran421)
+[![image](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/1234691666)
+[![image](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dtran.vercel.app) (Check out the repo [here](https://github.com/dtran421/portfolio)!)
 
-- 📫 If you’d like to connect with me to discuss more, please feel free to send me a message or reach out via email (duketran2001@gmail.com). 
 
-Check out my latest project, Godspeed!
+I am currently a junior studying **CS and Finance @ William & Mary** and will be graduating in January 2023. I'm an apsiring software developer, and my passions include Software Development and Engineering, Finance and Financial Analysis, Quantitative Finance, AI and Machine Learning, and Investment Banking.
+
+Here are some interesting classes I'm currently taking:
+
+- Entrepreneurship in CS
+- Data Mining
+- Student Managed Investment Fund
+- Multivariable Calculus
+
+
+## Check out my latest project, Godspeed!
 
 [![Godspeed Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dtran421&repo=project-godspeed&theme=midnight-purple)](https://github.com/dtran421/project-godspeed)
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dtran421&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contact Me 📫
+
+✉️ [duketran2001@gmail.com](duketran2001@gmail.com)
+
+📚 [dtran@wm.edu](dtran@wm.edu)
+
+
+## Languages and Technologies
+
+##### Languages
+
+![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![image](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+
+
+##### Frameworks and Libraries
+
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![image](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+
+##### Databases and Hosting
+
+![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
+![image](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+
+## Github Stats
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dtran421&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
