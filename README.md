@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 [![image](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://duketran.tech) (Check out the repo [here](https://github.com/dtran421/portfolio)!)
 
 
-I am currently a junior studying **CS and Finance @ William & Mary** and will be graduating in January 2023. I'm an apsiring software developer, and my passions include Quantitative Finance, Software Development and Engineering, Finance and Financial Analysis, AI, and Machine Learning.
+I am currently a senior studying **CS and Finance @ William & Mary** and will be graduating in January 2023. I'm an aspiring software developer, and my passions include Quantitative Finance, Software Development and Engineering, Finance and Financial Analysis, AI, and Machine Learning.
 
 Here are some interesting classes I have taken:
 
@@ -22,7 +22,7 @@ Here are some interesting classes I have taken:
 - Data Mining
 - Student Managed Investment Fund
 
-This summer, I'm going to be working at **Ernst & Young (EY)** as a **Technology Consulting Intern** under the [Financial Services Organization (FSO)](https://www.ey.com/en_us/financial-services). I'm super excited to embark on this journey and can't wait to see all the new things I'll learn!
+I'm excited to announce that next summer, I will be working full-time at **Amazon** as a **Software Development Engineer** in New York City. I'm super excited to kickstart my career as an Amazonian and can't wait to see all the new things I'll learn!
 
 
 ## Check out my latest project, Godspeed!
@@ -48,7 +48,6 @@ This summer, I'm going to be working at **Ernst & Young (EY)** as a **Technology
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![image](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 
 
 ##### Frameworks and Libraries
