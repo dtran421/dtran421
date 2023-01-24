@@ -14,15 +14,17 @@ You can click the Preview link to take a look at your changes.
 [![image](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://duketran.tech) (Check out the repo [here](https://github.com/dtran421/portfolio)!)
 
 
-I am currently a senior studying **CS and Finance @ William & Mary** and will be graduating in January 2023. I'm an aspiring software developer, and my passions include Quantitative Finance, Software Development and Engineering, Finance and Financial Analysis, AI, and Machine Learning.
+I am a recent graduate from the **College of William & Mary** with a Bachelor's in **CS and Finance** as of January 2023. I'm an aspiring software developer, and my passions include Quantitative Finance, Software Development and Engineering, Finance and Financial Analysis, AI, and Machine Learning.
 
-Here are some interesting classes I have taken:
+Here are some interesting classes I have taken throughout college:
 
-- Entrepreneurship in CS
+- Software Engineering
+- Intro to Machine Learning
 - Data Mining
-- Student Managed Investment Fund
+- Systems Programming
+- Entrepreneurship in CS
 
-I'm excited to announce that next summer, I will be working full-time at **Amazon** as a **Software Development Engineer** in New York City. I'm super excited to kickstart my career as an Amazonian and can't wait to see all the new things I'll learn!
+I'm excited to announce that this fall, I will be working full-time at **Amazon** as a **Software Development Engineer** in New York City. I'm super excited to kickstart my career as an Amazonian and can't wait to see all the new things I'll learn!
 
 
 ## Check out my latest project, Godspeed!
@@ -33,9 +35,6 @@ I'm excited to announce that next summer, I will be working full-time at **Amazo
 ## Contact Me 📫
 
 ✉️ [duketran2001@gmail.com](duketran2001@gmail.com)
-
-📚 [dtran@wm.edu](dtran@wm.edu)
-
 
 ## Languages and Technologies
 
@@ -50,19 +49,31 @@ I'm excited to announce that next summer, I will be working full-time at **Amazo
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
-##### Frameworks and Libraries
+##### Frameworks
 
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![image](https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white)
+![image](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+##### Libraries
+
+![image](https://img.shields.io/badge/Lodash-3492FF?style=for-the-badge&logo=lodash&logoColor=white)
+![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![image](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![image](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
+![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![image](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![image](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 
 
 ##### Databases and Hosting
@@ -72,6 +83,7 @@ I'm excited to announce that next summer, I will be working full-time at **Amazo
 ![image](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![image](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 
 ![image](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
