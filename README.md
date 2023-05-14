@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 [![image](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://duketran.tech) (Check out the repo [here](https://github.com/dtran421/portfolio)!)
 
 
-I am a recent graduate from the **College of William & Mary** with a Bachelor's in **CS and Finance** as of January 2023. I'm an aspiring software developer, and my passions include Quantitative Finance, Software Development and Engineering, Finance and Financial Analysis, AI, and Machine Learning.
+I am a recent graduate from the **College of William & Mary** with a Bachelor's in **CS and Finance** as of January 2023. My passions include Quantitative Finance, Software Engineering, Financial Quantitative Analysis, AI, and Machine Learning.
 
 Here are some interesting classes I have taken throughout college:
 
@@ -24,8 +24,7 @@ Here are some interesting classes I have taken throughout college:
 - Systems Programming
 - Entrepreneurship in CS
 
-I'm excited to announce that this fall, I will be working full-time at **Amazon** as a **Software Development Engineer** in New York City. I'm super excited to kickstart my career as an Amazonian and can't wait to see all the new things I'll learn!
-
+I'm currently working full-time as a **Full Stack Software Engineer @ Arch**!
 
 ## Check out my latest project, Godspeed!
 
@@ -35,6 +34,8 @@ I'm excited to announce that this fall, I will be working full-time at **Amazon*
 ## Contact Me 📫
 
 ✉️ [duketran2001@gmail.com](duketran2001@gmail.com)
+
+💼 [duke@arch.co](duke@arch.co)
 
 ## Languages and Technologies
 
