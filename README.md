@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 [![image](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://duketran.tech) (Check out the repo [here](https://github.com/dtran421/portfolio)!)
 
 
-I am a recent graduate from the **College of William & Mary** with a Bachelor's in **CS and Finance** as of January 2023. My passions include Quantitative Finance, Software Engineering, Financial Quantitative Analysis, AI, and Machine Learning.
+I am a recent graduate from the **College of William & Mary** with a Bachelor's in **CS and Finance** as of January 2023. My passions include Software Engineering, Quantitative Finance, AI, and Machine Learning.
 
 Here are some interesting classes I have taken throughout college:
 
@@ -24,18 +24,16 @@ Here are some interesting classes I have taken throughout college:
 - Systems Programming
 - Entrepreneurship in CS
 
-I'm currently working full-time as a **Full Stack Software Engineer @ Arch**!
+I'm currently working full-time as a **Software Development Engineer I @ AWS**!
 
-## Check out my latest project, Godspeed!
+## Check out my latest project, Home Hub!
 
-[![Godspeed Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dtran421&repo=project-godspeed&theme=midnight-purple&border_color=30363d)](https://github.com/dtran421/project-godspeed)
+[![Home Hub Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=dtran421&repo=home-hub-v2&theme=midnight-purple&border_color=30363d)](https://github.com/dtran421/home-hub-v2)
 
 
 ## Contact Me 📫
 
 ✉️ [duketran2001@gmail.com](duketran2001@gmail.com)
-
-💼 [duke@arch.co](duke@arch.co)
 
 ## Languages and Technologies
 
@@ -48,6 +46,7 @@ I'm currently working full-time as a **Full Stack Software Engineer @ Arch**!
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![image](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 
 ##### Frameworks
@@ -64,10 +63,11 @@ I'm currently working full-time as a **Full Stack Software Engineer @ Arch**!
 
 ##### Libraries
 
-![image](https://img.shields.io/badge/Lodash-3492FF?style=for-the-badge&logo=lodash&logoColor=white)
 ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![image](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![image](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![image](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
+![image](	https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=React_Query&logoColor=white)
 ![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
@@ -75,6 +75,8 @@ I'm currently working full-time as a **Full Stack Software Engineer @ Arch**!
 ![image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![image](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![image](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![image](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 
 
 ##### Databases and Hosting
@@ -85,9 +87,18 @@ I'm currently working full-time as a **Full Stack Software Engineer @ Arch**!
 ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![image](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
+![image](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ![image](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+##### Other Tooling
+
+![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![image](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
+![image](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![image](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![image](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
+![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
 ## Github Stats
 
